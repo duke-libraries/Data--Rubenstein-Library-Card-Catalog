@@ -41,4 +41,11 @@ df.set_index([df.index,"Collection_Head"],inplace=True)
 1919
 1862-65 
 not d 1891-1895
+not MAR 17 1941
+not out of range
+73 - -    Name.lower(){.}{0,3} the digit follows it no,
 19th - 20th Centuries
+
+
+
+papers, screen plays, daybooks, scrapbooks
