@@ -30,3 +30,13 @@ for index,row in df.iterrows():
     curr = row["Collection"]
 df["Collection_Head"] = collection_header
 df.set_index([df.index,"Collection_Head"],inplace=True)
+
+
+
+
+
+
+1853, Septe-1857
+1862-1864
+1919
+1862-65 
