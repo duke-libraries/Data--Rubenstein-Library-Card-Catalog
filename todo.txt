@@ -40,3 +40,5 @@ df.set_index([df.index,"Collection_Head"],inplace=True)
 1862-1864
 1919
 1862-65 
+not d 1891-1895
+19th - 20th Centuries
