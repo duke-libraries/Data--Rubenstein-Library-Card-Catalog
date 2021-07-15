@@ -84,3 +84,14 @@ bigramFreqTable
 #     phrases = Phraser(str(phrases))
 #     print(phrases.phrasegrams)
 # fit_phrases()
+
+
+
+charleston earthquake 
+[ 1295,  3077, 11346, 12237, 12465, 12498, 12499, 12820,
+            16096, 21313, 21609, 23873, 24542,
+            29217, 30480, 32219, 35513, 36175, 37469, 37798, 40147, 41434,
+            43150, 44239, 44405, 47110]
+
+
+[1296,]
