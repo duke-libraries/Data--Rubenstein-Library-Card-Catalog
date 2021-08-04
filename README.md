@@ -6,7 +6,7 @@
 
 With the dataset we created, we analysed *what* and *who* is present in these cards. We explored the demographics of the authors and items cataloged, as well as analysed how the information within the cards relates to the history of Duke University. We completed spatial frequency mapping on the level of the United States and of North Carolina counties, in addition to visualizing the international countries present in the cards. There is copious rich information present in the files, and our Data+ project is just the tip of the iceberg. We hope that future research teams will continue to dissect the card files and continue to gain insights into Duke's history.
 
- ## *Please read the Project Overview document for a comprehensive outline of the files*
+ #### *Please read the Project Overview document for a comprehensive outline of the files*
 
 ## Notes for Future Research
 
